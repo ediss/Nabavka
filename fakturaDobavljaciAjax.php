@@ -18,7 +18,7 @@
     if($statement){
         
     ?>
-        <table class="table table-bordered table-striped" style="margin-top:20px;">
+        <table class="table table-bordered table-striped" style=" margin-top:20px;">
         <thead>
             <th>Redni broj</th>
             <th>Dobavljac</th>
